@@ -1,0 +1,7 @@
+package com.teachersdunet.javaintermediaire;
+
+public class Examen {
+	public void afficher(){
+		System.out.println("Bienvenue a cet examen");
+	}
+}

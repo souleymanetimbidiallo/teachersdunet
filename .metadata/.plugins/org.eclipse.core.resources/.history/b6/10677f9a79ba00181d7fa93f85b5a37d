@@ -1,0 +1,10 @@
+package com.teachersdunet.javadebutant;
+
+public class MethodePrintf {
+
+	public static void main(String[] args) {
+		int a = 10;
+		System.out.printf("Entier %d", a);
+	}
+
+}

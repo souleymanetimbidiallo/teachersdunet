@@ -1,0 +1,14 @@
+package com.teachersdunet.javadebutant;
+
+public class MethodePrintf {
+
+	public static void main(String[] args) {
+		System.out.printf("afficher un entier: %d \n", 4);
+		System.out.printf("afficher en octal: %o \n", 10);
+		System.out.printf("afficher en hexadecimal: %x \n", 255);
+		System.out.printf("afficher un float: %f \n", 4.5);
+		System.out.printf("afficher un notation scientifique: %e \n", 100.0);
+		System.out.printf("afficher une chaine : %s", "ma chaine de caracteres");
+	}
+
+}

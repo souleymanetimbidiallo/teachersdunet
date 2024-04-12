@@ -1,0 +1,15 @@
+package com.teachersdunet.javaintermediaire;
+
+import java.util.Scanner;
+
+public class ExamenTest {
+
+	public static void main(String[] args) {
+		Scanner clavier = new Scanner(System.in);
+		Examen examen = new Examen();
+		System.out.print("Entrez votre matiere: ");
+		String matiere = clavier.nextLine();
+		examen.afficherMessage(matiere);
+	}
+
+}

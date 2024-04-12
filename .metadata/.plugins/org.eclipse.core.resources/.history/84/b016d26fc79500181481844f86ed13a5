@@ -1,0 +1,10 @@
+package com.teachersdunet.javaintermediaire;
+
+public class ExamenTest {
+
+	public static void main(String[] args) {
+		Examen exm = new Examen();
+		exm.afficher();
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.teachersdunet.javadebutant;
+
+import java.util.Scanner;
+
+public class Angle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner clavier = new Scanner(System.in);
+		int degre = clavier.nextInt();
+		double radian = degre *(Math.PI/180);
+		System.out.println("le cosinus de "+degre+" est: "+Math.cos(radian));
+	}
+
+}

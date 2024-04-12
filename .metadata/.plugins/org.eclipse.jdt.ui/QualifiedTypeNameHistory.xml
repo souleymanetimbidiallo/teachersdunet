@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Personne"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Interrupteur"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Enfant"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Carre"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Forme"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Cercle"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Triangle"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.EtreHumain"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.Test"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.A.C"/>
+<fullyQualifiedTypeName name="com.teachersdunet.javaintermediaire.A.B"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="javax.swing.RepaintManager"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="com.teachersdunet.quizgame.Quiz"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="com.teachersdunet.quizgame.CapitalCityQuestionsGenerator"/>
+<fullyQualifiedTypeName name="com.teachersdunet.quizgame.ConsoleQuiz"/>
+<fullyQualifiedTypeName name="com.teachersdunet.quizgame.utils.TimeConverter"/>
+<fullyQualifiedTypeName name="com.teachersdunet.quizgame.QuestionsGenerator"/>
+<fullyQualifiedTypeName name="com.teachersdunet.quizgame.Question"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>

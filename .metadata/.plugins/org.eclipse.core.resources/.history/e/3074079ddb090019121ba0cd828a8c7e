@@ -1,0 +1,10 @@
+package com.teachersdunet.javadebutant;
+
+import java.util.Scanner;
+
+public class Test{
+	public static void main(String[] args){
+		final int MAX = 100;
+		System.out.println(MAX);
+	}
+}

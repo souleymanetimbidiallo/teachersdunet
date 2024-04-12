@@ -1,0 +1,11 @@
+package com.teachersdunet.javadebutant;
+
+import java.util.Scanner;
+
+public class Test{
+	public static void main(String[] args){
+		Scanner clavier = new Scanner(System.in);
+		
+		
+	}
+}

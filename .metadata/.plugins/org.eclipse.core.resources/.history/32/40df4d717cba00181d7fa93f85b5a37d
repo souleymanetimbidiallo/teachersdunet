@@ -1,0 +1,20 @@
+package com.teachersdunet.javadebutant;
+
+public class MethodePrintf {
+
+	public static void main(String[] args) {
+		System.out.printf("afficher un entier: %d \n", 4);
+		System.out.printf("afficher en octal pour un entier: %o \n", 10);
+		System.out.printf("afficher en hexadecimal pour un entier: %x \n", 255);
+		
+		System.out.printf("afficher un reel: %f \n", 4.5);
+		System.out.printf("afficher en hexadecimal pour un reel: %a \n", 255);
+		
+		System.out.printf("afficher un notation scientifique: %e \n", 345.6);
+		System.out.printf("afficher une notation meilleure pour les reels: %g \n", 345.6);
+		
+		System.out.printf("afficher une chaine en Minuscules : %s", "ma chaine de caracteres");
+		System.out.printf("afficher une chaine en Majuscules : %S", "ma chaine de caracteres");
+	}
+
+}
